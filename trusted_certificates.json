@@ -1,0 +1,26 @@
+[
+  {
+    "certificate_no": "3C-2024-0001",
+    "status": "有效",
+    "model_name": "FoldSafe-A1",
+    "holder": "安途护具制造有限公司",
+    "issued_at": "2024-03-01",
+    "expires_at": "2029-02-28"
+  },
+  {
+    "certificate_no": "3C-2024-0002",
+    "status": "已撤销",
+    "model_name": "PaperRide-X",
+    "holder": "轻行者科技有限公司",
+    "issued_at": "2024-05-11",
+    "expires_at": "2029-05-10"
+  },
+  {
+    "certificate_no": "3C-2025-0007",
+    "status": "有效",
+    "model_name": "CityFold-Pro",
+    "holder": "安途护具制造有限公司",
+    "issued_at": "2025-01-20",
+    "expires_at": "2030-01-19"
+  }
+]
